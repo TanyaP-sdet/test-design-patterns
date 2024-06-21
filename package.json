@@ -1,0 +1,19 @@
+{
+  "name": "test-design-patterns",
+  "version": "1.0.0",
+  "description": "test design project",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaP-sdet/test-design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaP-sdet/test-design-patterns/issues"
+  },
+  "homepage": "https://github.com/TanyaP-sdet/test-design-patterns#readme"
+}
